@@ -1,3 +1,4 @@
+import { TodoStatus } from './App';
 
 interface TodoItemProps {
   id: number;
